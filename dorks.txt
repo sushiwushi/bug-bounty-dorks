@@ -1,0 +1,32 @@
+inurl /bug bounty
+inurl : / security
+inurl:security.txt
+inurl:security "reward"
+inurl : /responsible disclosure
+inurl : /responsible-disclosure/ reward
+inurl : / responsible-disclosure/ swag
+inurl : / responsible-disclosure/ bounty
+responsible disclosure swag r=h:com
+responsible disclosure hall of fame
+responsible disclosure europe
+insite:"responsible disclosure" -inurl:nl
+intext responsible disclosure
+site eu responsible disclosure
+site .nl responsible disclosure
+site responsible disclosure
+responsible disclosure r=h:nl
+responsible disclosure r=h:uk
+responsible disclosure r=h:eu
+responsible disclosure bounty r=h:nl
+responsible disclosure bounty r=h:uk
+responsible disclosure bounty r=h:eu
+responsible disclosure swag r=h:nl
+responsible disclosure swag r=h:uk
+responsible disclosure swag r=h:eu
+responsible disclosure reward r=h:nl
+responsible disclosure reward r=h:uk
+responsible disclosure reward r=h:eu
+"powered by bugcrowd" -site:bugcrowd.com
+"powered by hackerone" "submit vulnerability report"
+"submit vulnerability report"
+site:responsibledisclosure.com
