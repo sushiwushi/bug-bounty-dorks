@@ -6,6 +6,7 @@ inurl : /responsible disclosure
 inurl : /responsible-disclosure/ reward
 inurl : / responsible-disclosure/ swag
 inurl : / responsible-disclosure/ bounty
+inurl:'/responsible disclosure' hoodie
 responsible disclosure swag r=h:com
 responsible disclosure hall of fame
 responsible disclosure europe
