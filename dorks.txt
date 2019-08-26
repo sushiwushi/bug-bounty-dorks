@@ -15,6 +15,7 @@ intext responsible disclosure
 site eu responsible disclosure
 site .nl responsible disclosure
 site responsible disclosure
+responsible disclosure:sites
 responsible disclosure r=h:nl
 responsible disclosure r=h:uk
 responsible disclosure r=h:eu
