@@ -10,6 +10,8 @@ inurl:'/responsible disclosure' hoodie
 responsible disclosure swag r=h:com
 responsible disclosure hall of fame
 responsible disclosure europe
+responsible disclosure white hat
+white hat program
 insite:"responsible disclosure" -inurl:nl
 intext responsible disclosure
 site eu responsible disclosure
