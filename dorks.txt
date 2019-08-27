@@ -37,3 +37,5 @@ site:responsibledisclosure.com
 inurl:'vulnerability-disclosure-policy' reward
 intext:Vulnerability Disclosure site:nl
 intext:Vulnerability Disclosure site:eu
+site:*.*.nl intext:security report reward
+site:*.*.nl intext:responsible disclosure reward
