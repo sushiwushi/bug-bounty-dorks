@@ -34,3 +34,4 @@ responsible disclosure reward r=h:eu
 "powered by hackerone" "submit vulnerability report"
 "submit vulnerability report"
 site:responsibledisclosure.com
+inurl:'vulnerability-disclosure-policy' reward
