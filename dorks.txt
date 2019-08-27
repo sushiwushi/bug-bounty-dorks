@@ -35,3 +35,5 @@ responsible disclosure reward r=h:eu
 "submit vulnerability report"
 site:responsibledisclosure.com
 inurl:'vulnerability-disclosure-policy' reward
+intext:Vulnerability Disclosure site:nl
+intext:Vulnerability Disclosure site:eu
