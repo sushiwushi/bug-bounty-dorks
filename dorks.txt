@@ -40,3 +40,4 @@ intext:Vulnerability Disclosure site:eu
 site:*.*.nl intext:security report reward
 site:*.*.nl intext:responsible disclosure reward
 "security vulnerability" "report"
+inurl"security report"
