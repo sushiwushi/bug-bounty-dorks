@@ -42,3 +42,4 @@ site:*.*.nl intext:responsible disclosure reward
 "security vulnerability" "report"
 inurl"security report"
 "responsible disclosure" university
+inurl:/responsible-disclosure/ university
