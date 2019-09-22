@@ -43,3 +43,4 @@ site:*.*.nl intext:responsible disclosure reward
 inurl"security report"
 "responsible disclosure" university
 inurl:/responsible-disclosure/ university
+buy bitcoins "bug bounty"
