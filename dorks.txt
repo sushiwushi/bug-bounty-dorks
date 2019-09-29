@@ -44,3 +44,4 @@ inurl"security report"
 "responsible disclosure" university
 inurl:/responsible-disclosure/ university
 buy bitcoins "bug bounty"
+inurl:/security ext:txt "contact"
