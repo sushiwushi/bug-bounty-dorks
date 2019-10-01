@@ -48,3 +48,4 @@ inurl:/security ext:txt "contact"
 "powered by synack"
 intext:responsible disclosure bounty
 inurl: private bugbountyprogram
+inurl:bugbounty swag
