@@ -49,3 +49,4 @@ inurl:/security ext:txt "contact"
 intext:responsible disclosure bounty
 inurl: private bugbountyprogram
 inurl:/.well-known/security ext:txt
+inurl:/.well-known/security ext:txt intext:hackerone
