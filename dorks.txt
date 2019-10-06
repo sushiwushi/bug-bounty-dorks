@@ -51,3 +51,4 @@ inurl: private bugbountyprogram
 inurl:/.well-known/security ext:txt
 inurl:/.well-known/security ext:txt intext:hackerone
 inurl:/.well-known/security ext:txt -hackerone -bugcrowd -synack -openbugbounty
+inurl:reporting-security-issues
