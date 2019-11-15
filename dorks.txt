@@ -53,3 +53,10 @@ inurl:/.well-known/security ext:txt intext:hackerone
 inurl:/.well-known/security ext:txt -hackerone -bugcrowd -synack -openbugbounty
 inurl:reporting-security-issues
 inurl:security-policy.txt ext:txt
+site:*.*.* inurl:bug inurl:bounty
+site:help.*.* inurl:bounty
+site:support.*.* intext:security report reward
+intext:security report monetary inurl:security 
+intext:security report reward inurl:report
+site:security.*.* inurl: bounty
+site:*.*.de inurl:bug inurl:bounty
