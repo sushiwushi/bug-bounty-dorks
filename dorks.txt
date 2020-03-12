@@ -63,3 +63,4 @@ site:*.*.de inurl:bug inurl:bounty
 site:*.*.uk intext:security report reward
 site:*.*.cn intext:security report reward
 "vulnerability reporting policy"
+"van de melding met een minimum van een" -site:responsibledisclosure.nl
