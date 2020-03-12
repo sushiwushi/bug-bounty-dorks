@@ -7,3 +7,5 @@ Some of the dorks are sourced from Nightwatch Cybersecurity https://wwws.nightwa
 Emad Shanab's tweet https://twitter.com/alra3ees/status/1147728448170942464
 
 Kunal Pandey's tweet https://twitter.com/kunalp94/status/1180193592846868480
+
+A:\fie's tweet https://twitter.com/emenalf/status/1099180292068294658
