@@ -65,3 +65,4 @@ site:*.*.cn intext:security report reward
 "vulnerability reporting policy"
 "van de melding met een minimum van een" -site:responsibledisclosure.nl
 inurl:/security ext:txt "contact"
+"Submission Form powered by Bugcrowd" -bugcrowd.com
