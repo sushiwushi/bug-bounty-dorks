@@ -11,3 +11,5 @@ Kunal Pandey's tweet https://twitter.com/kunalp94/status/1180193592846868480
 A:\fie's tweet https://twitter.com/emenalf/status/1099180292068294658
 
 How we Hijacked 26+ Subdomains https://medium.com/@aishwaryakendle/how-we-hijacked-26-subdomains-9c05c94c7049
+
+zseano's tweet https://twitter.com/zseano/status/1261292736478687232
