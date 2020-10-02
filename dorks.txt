@@ -68,3 +68,8 @@ inurl:/security ext:txt "contact"
 inurl:responsible-disclosure-policy
 "Submission Form powered by Bugcrowd" -bugcrowd.com
 "If you believe you've found a security vulnerability"
+intext:"BugBounty" and intext:"BTC" and intext:"reward"
+intext:bounty inurl:/security
+inurl:"bug bounty" and intext:"€" and inurl:/security
+inurl:"bug bounty" and intext:"$" and inurl:/security
+inurl:"bug bounty" and intext:"INR" and inurl:/security
