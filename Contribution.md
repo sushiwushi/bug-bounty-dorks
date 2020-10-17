@@ -1,5 +1,3 @@
-- [sushiwushi](https://github.com/sushiwushi)
-
 - [The Mysterious Cyber Warriors](https://github.com/gauravdrago)
 
 - [Mohammed Adam](https://github.com/AmdAdam)
