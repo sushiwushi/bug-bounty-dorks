@@ -74,3 +74,4 @@ inurl:"bug bounty" and intext:"€" and inurl:/security
 inurl:"bug bounty" and intext:"$" and inurl:/security
 inurl:"bug bounty" and intext:"INR" and inurl:/security
 inurl:/security.txt "mailto*" -github.com  -wikipedia.org -portswigger.net -magento
+/trust/report-a-vulnerability
