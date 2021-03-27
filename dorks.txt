@@ -77,3 +77,4 @@ inurl:/security.txt "mailto*" -github.com  -wikipedia.org -portswigger.net -mage
 /trust/report-a-vulnerability
 site:twitter.com bug bounty swag
 site:*.edu intext:security report vulnerability
+"cms" bug bounty
