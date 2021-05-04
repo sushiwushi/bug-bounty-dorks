@@ -78,3 +78,4 @@ inurl:/security.txt "mailto*" -github.com  -wikipedia.org -portswigger.net -mage
 site:twitter.com bug bounty swag
 site:*.edu intext:security report vulnerability
 "cms" bug bounty
+"If you find a security issue"  "reward"
