@@ -3,14 +3,27 @@ List of Google Dorks to search for companies that have a responsible disclosure 
 
 Pull requests are welcome! 
 
-Some of the dorks are sourced from Nightwatch Cybersecurity https://wwws.nightwatchcybersecurity.com/2019/05/04/finding-unlisted-public-bounty-programs-with-google-dorks/
+### Credits
 
-Emad Shanab's tweet https://twitter.com/alra3ees/status/1147728448170942464
+- [Nightwatch Cybersecurity](https://wwws.nightwatchcybersecurity.com/2019/05/04/finding-unlisted-public-bounty-programs-with-google-dorks/)
 
-Kunal Pandey's tweet https://twitter.com/kunalp94/status/1180193592846868480
+- [Emad Shanab](https://twitter.com/alra3ees/status/1147728448170942464)
 
-A:\fie's tweet https://twitter.com/emenalf/status/1099180292068294658
+- [Kunal Pandey](https://twitter.com/kunalp94/status/1180193592846868480)
 
-Aishwarya Kendle's blog post https://medium.com/@aishwaryakendle/how-we-hijacked-26-subdomains-9c05c94c7049
+- [A:\fie](https://twitter.com/emenalf/status/1099180292068294658)
 
-zseano's tweet https://twitter.com/zseano/status/1261292736478687232
+- [Aishwarya Kendle](https://medium.com/@aishwaryakendle/how-we-hijacked-26-subdomains-9c05c94c7049)
+
+- [zseano](https://twitter.com/zseano/status/1261292736478687232)
+
+- [nil0x42](https://twitter.com/nil0x42/status/1394220395255922689)
+
+### Contributors
+- [The Mysterious Cyber Warriors](https://github.com/gauravdrago)
+
+- [Mohammed Adam](https://github.com/AmdAdam)
+
+- [Anishka Shukla](https://github.com/anishkashukla)
+
+- [ghostbit11](https://github.com/ghostbit11)
