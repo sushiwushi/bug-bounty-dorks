@@ -79,3 +79,4 @@ site:twitter.com bug bounty swag
 site:*.edu intext:security report vulnerability
 "cms" bug bounty
 "If you find a security issue"  "reward"
+"responsible disclosure" intext:"you may be eligible for monetary compensation"
