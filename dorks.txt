@@ -34,6 +34,7 @@ responsible disclosure reward r=h:eu
 "powered by hackerone" "submit vulnerability report"
 "submit vulnerability report"
 site:*.gov.* "responsible disclosure"
+intext:"we take security very seriously"
 site:responsibledisclosure.com
 inurl:'vulnerability-disclosure-policy' reward
 intext:Vulnerability Disclosure site:nl
