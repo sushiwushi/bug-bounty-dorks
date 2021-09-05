@@ -67,7 +67,6 @@ site:*.*.cn intext:security report reward
 "van de melding met een minimum van een" -site:responsibledisclosure.nl
 inurl:/security ext:txt "contact"
 inurl:responsible-disclosure-policy
-"Submission Form powered by Bugcrowd" -bugcrowd.com
 "If you believe you've found a security vulnerability"
 intext:"BugBounty" and intext:"BTC" and intext:"reward"
 intext:bounty inurl:/security
@@ -76,9 +75,13 @@ inurl:"bug bounty" and intext:"$" and inurl:/security
 inurl:"bug bounty" and intext:"INR" and inurl:/security
 inurl:/security.txt "mailto*" -github.com  -wikipedia.org -portswigger.net -magento
 /trust/report-a-vulnerability
-site:twitter.com bug bounty swag
 site:*.edu intext:security report vulnerability
 "cms" bug bounty
 "If you find a security issue"  "reward"
 "responsible disclosure" intext:"you may be eligible for monetary compensation"
 inurl: "responsible disclosure", "bug bounty", "bugbounty"
+responsible disclosure inurl:in
+site:*.br responsible disclosure
+site:*.at responsible disclosure
+site:*.be responsible disclosure
+site:*.au responsible disclosure
