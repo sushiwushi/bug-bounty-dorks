@@ -31,7 +31,6 @@ responsible disclosure reward r=h:nl
 responsible disclosure reward r=h:uk
 responsible disclosure reward r=h:eu
 "powered by bugcrowd" -site:bugcrowd.com
-"powered by hackerone" "submit vulnerability report"
 "submit vulnerability report"
 site:*.gov.* "responsible disclosure"
 intext:"we take security very seriously"
