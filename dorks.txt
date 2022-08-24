@@ -9,6 +9,7 @@ inurl : / responsible-disclosure/ bounty
 inurl:'/responsible disclosure' hoodie
 responsible disclosure swag r=h:com
 responsible disclosure hall of fame
+inurl:responsible disclosure $50
 responsible disclosure europe
 responsible disclosure white hat
 white hat program
