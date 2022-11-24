@@ -81,6 +81,7 @@ site:*.edu intext:security report vulnerability
 "If you find a security issue"  "reward"
 "responsible disclosure" intext:"you may be eligible for monetary compensation"
 inurl: "responsible disclosure", "bug bounty", "bugbounty"
+intext: we offer a bounty
 responsible disclosure inurl:in
 site:*.br responsible disclosure
 site:*.at responsible disclosure
