@@ -59,7 +59,7 @@ inurl:security-policy.txt ext:txt
 site:*.*.* inurl:bug inurl:bounty
 site:help.*.* inurl:bounty
 site:support.*.* intext:security report reward
-intext:security report monetary inurl:security 
+intext:security report monetary inurl:security
 intext:security report reward inurl:report
 site:security.*.* inurl: bounty
 site:*.*.de inurl:bug inurl:bounty
@@ -67,7 +67,6 @@ site:*.*.uk intext:security report reward
 site:*.*.cn intext:security report reward
 "vulnerability reporting policy"
 "van de melding met een minimum van een" -site:responsibledisclosure.nl
-inurl:/security ext:txt "contact"
 inurl:responsible-disclosure-policy
 "If you believe you've found a security vulnerability"
 intext:"BugBounty" and intext:"BTC" and intext:"reward"
