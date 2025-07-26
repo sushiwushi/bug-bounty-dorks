@@ -20,10 +20,6 @@ Pull requests are welcome!
 - [nil0x42](https://twitter.com/nil0x42/status/1394220395255922689)
 
 ### Contributors
-- [The Mysterious Cyber Warriors](https://github.com/gauravdrago)
-
-- [Mohammed Adam](https://github.com/AmdAdam)
-
-- [Anishka Shukla](https://github.com/anishkashukla)
-
-- [ghostbit11](https://github.com/ghostbit11)
+<a href="https://github.com/sushiwushi/bug-bounty-dorks/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sushiwushi/bug-bounty-dorks" />
+</a>
