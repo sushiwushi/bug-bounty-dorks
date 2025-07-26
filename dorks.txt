@@ -91,3 +91,38 @@ site:*/security.txt "bounty"
 inurl:bug bounty intext:"rupees"
 inurl:bug bounty intext:"₹"
 inurl:responsible disclosure intext:"INR"
+"vulnerability disclosure program" AND (bounty OR reward OR swag OR "hall of fame")
+"responsible disclosure" AND (monetary OR cash OR "gift card" OR crypto OR BTC)
+"security@*" AND ("bug bounty" OR "vulnerability disclosure") ext:txt
+"powered by yeswehack" OR "powered by federacy" OR "powered by intigriti" -site:yeswehack.com -site:federacy.com -site:intigriti.com
+"submit vulnerability report" -site:hackerone.com -site:bugcrowd.com -site:synack.com -site:openbugbounty.org
+inurl:/.well-known/security.txt intext:bounty -hackerone -bugcrowd -synack
+"security.txt" AND ("mailto" OR "contact") AND (bounty OR reward)
+intitle:"Bug Bounty" OR intitle:"Vulnerability Disclosure" OR intitle:"Security Rewards"
+"We value security researchers" OR "We appreciate security reports" AND (reward OR bounty)
+"If you discover a vulnerability" AND (swag OR "hall of fame" OR monetary)
+site:*.ca intext:"responsible disclosure" intext:reward
+site:*.jp intext:"vulnerability report" intext:swag
+site:*.it intext:"bug bounty" OR intext:"security reward"
+site:*.ch filetype:txt inurl:security intext:bounty
+site:*.se intext:"responsible disclosure" intext:hall_of_fame
+site:*.pl inurl:/bezpieczenstwo intext:nagroda            (Polish: bezpieczenstwo = security, nagroda = reward)
+site:*.fr intext:"bug bounty" OR "prime de sécurité"
+site:*.dk inurl:/sikkerhed intext:dusør                   (Danish: sikkerhed = security, dusør = bounty)
+site:*.no inurl:/sikkerhet intext:belønning               (Norwegian: sikkerhet = security, belønning = reward)
+site:*.es inurl:/seguridad intext:recompensa              (Spanish: seguridad = security, recompensa = reward)
+site:*.edu "responsible disclosure" AND (reward OR swag OR bounty)
+site:*.edu inurl:/security intext:"report a vulnerability"
+site:*.edu intext:"we run a bug bounty program"
+site:*.edu intext:"vulnerability disclosure policy" intext:hall_of_fame
+site:*.gov* "vulnerability disclosure program" OR "bug bounty"
+site:*.gov* inurl:/security intext:contact intext:reward
+site:*.gov* filetype:pdf "vulnerability disclosure policy"
+inurl:/hackerone.yml -site:hackerone.com
+inurl:/bug-bounty.json | inurl:/vdp.json
+intext:"Powered by Bug Bounty HQ" OR "Powered by disclose.io"
+intext:"managed by huntr.dev"
+intext:"CVSS score" AND "eligible for a reward" -hackerone -bugcrowd
+inurl:/security/index.html intext:bounty
+inurl:/legal/security intext:monetary
+"security.txt" AND "PGP" AND (bounty OR reward)
