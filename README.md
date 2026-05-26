@@ -3,6 +3,15 @@ List of Google Dorks to search for companies that have a responsible disclosure 
 
 Pull requests are welcome! 
 
+### Notes
+
+Some localized dorks use translated security or reward terms:
+
+- Polish: `bezpieczenstwo` = security, `nagroda` = reward
+- Danish: `sikkerhed` = security, `dusør` = bounty
+- Norwegian: `sikkerhet` = security, `belønning` = reward
+- Spanish: `seguridad` = security, `recompensa` = reward
+
 ### Credits
 
 - [Nightwatch Cybersecurity](https://wwws.nightwatchcybersecurity.com/2019/05/04/finding-unlisted-public-bounty-programs-with-google-dorks/)
