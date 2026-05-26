@@ -106,11 +106,11 @@ site:*.jp intext:"vulnerability report" intext:swag
 site:*.it intext:"bug bounty" OR intext:"security reward"
 site:*.ch filetype:txt inurl:security intext:bounty
 site:*.se intext:"responsible disclosure" intext:hall_of_fame
-site:*.pl inurl:/bezpieczenstwo intext:nagroda            (Polish: bezpieczenstwo = security, nagroda = reward)
+site:*.pl inurl:/bezpieczenstwo intext:nagroda
 site:*.fr intext:"bug bounty" OR "prime de sécurité"
-site:*.dk inurl:/sikkerhed intext:dusør                   (Danish: sikkerhed = security, dusør = bounty)
-site:*.no inurl:/sikkerhet intext:belønning               (Norwegian: sikkerhet = security, belønning = reward)
-site:*.es inurl:/seguridad intext:recompensa              (Spanish: seguridad = security, recompensa = reward)
+site:*.dk inurl:/sikkerhed intext:dusør
+site:*.no inurl:/sikkerhet intext:belønning
+site:*.es inurl:/seguridad intext:recompensa
 site:*.edu "responsible disclosure" AND (reward OR swag OR bounty)
 site:*.edu inurl:/security intext:"report a vulnerability"
 site:*.edu intext:"we run a bug bounty program"
